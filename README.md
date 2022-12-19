@@ -1,7 +1,7 @@
 # ThirdEyeForBlind
   The "Third Eye for Blind" is a device created to assist the blind to compensate for their lack of vision by employing their other senses, such as   touch and sound. It combines audio and vibration signals to alert the user of an impending obstacle. The frequency of the sound and vibration messages rises as the   distance between the glove and the obstruction decreases. Thus, the technology aids in making navigating easier for those in need.
 # Update 
-  Now it is equipped with a feedback system. If any mishappening occurs to the person, it will alert their close once. Also, they can monitor movements on the Thingspeak   cloud.
+  Now it is equipped with a alert system. If any mishappening occurs to the person, it will alert their close once. Also, they can monitor movements on the Thingspeak   cloud.
 # Circuit Diagram
 ![image](https://user-images.githubusercontent.com/96352622/208405111-d2cbfa51-ee8c-4e11-8727-fd3c1f8331ab.png)
 # Prototype
